@@ -1652,6 +1652,13 @@ document.querySelector(".chevron-down").addEventListener("click",()=>{
       artist: "Justin Bieber",
       playlistname: "TopEnglishSongsPlaylist",
     },
+   {
+      title: "I Think They Call This Love (Cover)",
+      src: "I Think They Call This Love (Cover).mp3",
+      img: "i think they call this love matthew ifield.jpg",
+      artist: "Matthew Ifield",
+      playlistname: "TopEnglishSongsPlaylist",
+    },
    
   ];
   //Top English Songs playlist end here------------------------------------->
